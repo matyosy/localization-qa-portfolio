@@ -9,8 +9,7 @@ This repository showcases my work in **Japanese Localization QA** for SaaS produ
 - Error message localization  
 - Before/After case studies with reasoning  
 
-The goal of this portfolio is to demonstrate **practical, real-world Japanese UI quality improvements** through structured examples and reproducible review methods.
-
+The goal of this portfolio is to demonstrate practical Japanese UI quality improvements for SaaS products and AI-generated translations through structured examples and reproducible review methods.
 ---
 
 ## 📁 Portfolio Contents
