@@ -53,12 +53,10 @@ I specialize in:
 - MTPE improvement  
 - Japanese UX writing  
 
-Location: Shizuoka, Japan  
-Upwork: (Add your profile link here)
-
+Location: Shizuoka, Japan
 ---
 
 ## 🔗 Live Portfolio (GitHub Pages)
 
-(You can add this after enabling GitHub Pages)
+[Japanese Localization QA Portfolio](https://matyosy.github.io/localization-qa-portfolio-demo/)
 
