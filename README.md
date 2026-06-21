@@ -45,5 +45,5 @@ These principles ensure that Japanese UI text is **clear, natural, and aligned w
 
 ## 🔗 Live Portfolio (GitHub Pages)
 
-[Japanese Localization QA Portfolio](https://matyosy.github.io/localization-qa-portfolio-demo/)
+[Japanese Localization QA Portfolio](https://matyosy.github.io/localization-qa-portfolio/)
 
