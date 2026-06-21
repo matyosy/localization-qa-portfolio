@@ -43,18 +43,6 @@ These principles ensure that Japanese UI text is **clear, natural, and aligned w
 
 ---
 
-## 🧑‍💻 About Me
-
-I specialize in:
-
-- Japanese Localization QA  
-- SaaS UI/UX text review  
-- MTPE improvement  
-- Japanese UX writing  
-
-Location: Shizuoka, Japan
----
-
 ## 🔗 Live Portfolio (GitHub Pages)
 
 [Japanese Localization QA Portfolio](https://matyosy.github.io/localization-qa-portfolio-demo/)
