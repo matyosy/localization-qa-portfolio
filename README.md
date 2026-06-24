@@ -26,8 +26,6 @@ This repository showcases my work in **Japanese Localization QA** for SaaS produ
 - **/cases**  
   Individual case files (optional, if added later).
 
----
-
 ## 🧩 Review Focus Areas
 
 My Japanese Localization QA process is based on six core evaluation axes:
@@ -40,8 +38,6 @@ My Japanese Localization QA process is based on six core evaluation axes:
 6. **Tone** — Appropriate voice for SaaS products  
 
 These principles ensure that Japanese UI text is **clear, natural, and aligned with product intent**.
-
----
 
 ## 🔗 Live Portfolio (GitHub Pages)
 
